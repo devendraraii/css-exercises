@@ -3,3 +3,10 @@ div p{
     color: red;
     font-size: 20px;
 }
+
+/* 
+Altenative
+div>p{
+    .......
+}
+*/
